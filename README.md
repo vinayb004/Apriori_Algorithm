@@ -1,5 +1,5 @@
 # Apriori_Algorithm
-##Introduction
+## Introduction
 Apriori Algorithm is the classical algorithm which is used in data mining. It is used 
 for mining frequent item sets and relevant association rules for those item sets. It is devised to 
 operate on a database containing more transactions, for instance, items brought by customers 
@@ -8,7 +8,7 @@ It is important for effective Market Basket Analysis and it helps the users in p
 products with more ease which provides more sales in the markets. It has been even used in 
 the healthcare industry for the finding of adverse drug reactions. It produces association rules 
 that shows what all combinations of medications and patient characteristics lead to ADRs.
-##Implementation 
+## Implementation 
 An implementation of Apriori Algorithm to generate Association rules with user input 
 values for support and confidence. The support and confidence values are given in decimal 
 values. It gives associations rules for different datasets: Amazon, BestBuy, KMART, Nike,Grocery.
